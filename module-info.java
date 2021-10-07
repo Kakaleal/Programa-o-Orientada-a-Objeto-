@@ -1,2 +1,2 @@
-module exercicio3 {
+module Exercicios {
 }
